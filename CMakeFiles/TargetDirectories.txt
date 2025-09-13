@@ -1,0 +1,2 @@
+/home/wigner/project/build/CMakeFiles/edit_cache.dir
+/home/wigner/project/build/CMakeFiles/rebuild_cache.dir
